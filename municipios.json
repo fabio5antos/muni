@@ -1,0 +1,4193 @@
+{
+    "meta-info": {
+        "status": "DEPRECATED",
+        "data-ultima-atualizacao": "2018-08-29",
+        "data-referencia": "2017-07-01",
+        "versao": "1.0.3",
+        "website": "https:\/\/medium.com\/@rgiaviti\/munic%C3%ADpios-brasileiros-em-formato-json-32337dd00d49",
+        "fontes": [
+            "IBGE"
+        ]
+    },
+    "municipios": [
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "00102",
+            "nome-municipio": "Água Branca",
+            "populacao-estimada": 20467
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "00201",
+            "nome-municipio": "Anadia",
+            "populacao-estimada": 17818
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "00300",
+            "nome-municipio": "Arapiraca",
+            "populacao-estimada": 234185
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "00409",
+            "nome-municipio": "Atalaia",
+            "populacao-estimada": 47744
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "00508",
+            "nome-municipio": "Barra de Santo Antônio",
+            "populacao-estimada": 16064
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "00607",
+            "nome-municipio": "Barra de São Miguel",
+            "populacao-estimada": 8401
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "00706",
+            "nome-municipio": "Batalha",
+            "populacao-estimada": 18757
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "00805",
+            "nome-municipio": "Belém",
+            "populacao-estimada": 4453
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "00904",
+            "nome-municipio": "Belo Monte",
+            "populacao-estimada": 6797
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01001",
+            "nome-municipio": "Boca da Mata",
+            "populacao-estimada": 27590
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01100",
+            "nome-municipio": "Branquinha",
+            "populacao-estimada": 10675
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01209",
+            "nome-municipio": "Cacimbinhas",
+            "populacao-estimada": 10897
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01308",
+            "nome-municipio": "Cajueiro",
+            "populacao-estimada": 21526
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01357",
+            "nome-municipio": "Campestre",
+            "populacao-estimada": 7024
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01407",
+            "nome-municipio": "Campo Alegre",
+            "populacao-estimada": 57548
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01506",
+            "nome-municipio": "Campo Grande",
+            "populacao-estimada": 9692
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01605",
+            "nome-municipio": "Canapi",
+            "populacao-estimada": 17983
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01704",
+            "nome-municipio": "Capela",
+            "populacao-estimada": 17354
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01803",
+            "nome-municipio": "Carneiros",
+            "populacao-estimada": 9155
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "01902",
+            "nome-municipio": "Chã Preta",
+            "populacao-estimada": 7427
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02009",
+            "nome-municipio": "Coité do Nóia",
+            "populacao-estimada": 10888
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02108",
+            "nome-municipio": "Colônia Leopoldina",
+            "populacao-estimada": 21926
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02207",
+            "nome-municipio": "Coqueiro Seco",
+            "populacao-estimada": 5918
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02306",
+            "nome-municipio": "Coruripe",
+            "populacao-estimada": 57498
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02355",
+            "nome-municipio": "Craíbas",
+            "populacao-estimada": 24510
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02405",
+            "nome-municipio": "Delmiro Gouveia",
+            "populacao-estimada": 52597
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02504",
+            "nome-municipio": "Dois Riachos",
+            "populacao-estimada": 11214
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02553",
+            "nome-municipio": "Estrela de Alagoas",
+            "populacao-estimada": 18435
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02603",
+            "nome-municipio": "Feira Grande",
+            "populacao-estimada": 22481
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02702",
+            "nome-municipio": "Feliz Deserto",
+            "populacao-estimada": 4806
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02801",
+            "nome-municipio": "Flexeiras",
+            "populacao-estimada": 12966
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "02900",
+            "nome-municipio": "Girau do Ponciano",
+            "populacao-estimada": 41279
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03007",
+            "nome-municipio": "Ibateguara",
+            "populacao-estimada": 15840
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03106",
+            "nome-municipio": "Igaci",
+            "populacao-estimada": 26022
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03205",
+            "nome-municipio": "Igreja Nova",
+            "populacao-estimada": 24793
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03304",
+            "nome-municipio": "Inhapi",
+            "populacao-estimada": 18652
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03403",
+            "nome-municipio": "Jacaré dos Homens",
+            "populacao-estimada": 5356
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03502",
+            "nome-municipio": "Jacuípe",
+            "populacao-estimada": 7135
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03601",
+            "nome-municipio": "Japaratinga",
+            "populacao-estimada": 8453
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03700",
+            "nome-municipio": "Jaramataia",
+            "populacao-estimada": 5676
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03759",
+            "nome-municipio": "Jequiá da Praia",
+            "populacao-estimada": 11782
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03809",
+            "nome-municipio": "Joaquim Gomes",
+            "populacao-estimada": 24280
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "03908",
+            "nome-municipio": "Jundiá",
+            "populacao-estimada": 4231
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04005",
+            "nome-municipio": "Junqueiro",
+            "populacao-estimada": 25093
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04104",
+            "nome-municipio": "Lagoa da Canoa",
+            "populacao-estimada": 18175
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04203",
+            "nome-municipio": "Limoeiro de Anadia",
+            "populacao-estimada": 28953
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04302",
+            "nome-municipio": "Maceió",
+            "populacao-estimada": 1029129
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04401",
+            "nome-municipio": "Major Isidoro",
+            "populacao-estimada": 20200
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04906",
+            "nome-municipio": "Mar Vermelho",
+            "populacao-estimada": 3579
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04500",
+            "nome-municipio": "Maragogi",
+            "populacao-estimada": 32940
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04609",
+            "nome-municipio": "Maravilha",
+            "populacao-estimada": 9418
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04708",
+            "nome-municipio": "Marechal Deodoro",
+            "populacao-estimada": 52260
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "04807",
+            "nome-municipio": "Maribondo",
+            "populacao-estimada": 13514
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05002",
+            "nome-municipio": "Mata Grande",
+            "populacao-estimada": 25589
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05101",
+            "nome-municipio": "Matriz de Camaragibe",
+            "populacao-estimada": 25012
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05200",
+            "nome-municipio": "Messias",
+            "populacao-estimada": 17988
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05309",
+            "nome-municipio": "Minador do Negrão",
+            "populacao-estimada": 5413
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05408",
+            "nome-municipio": "Monteirópolis",
+            "populacao-estimada": 7260
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05507",
+            "nome-municipio": "Murici",
+            "populacao-estimada": 28579
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05606",
+            "nome-municipio": "Novo Lino",
+            "populacao-estimada": 12821
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05705",
+            "nome-municipio": "Olho d'Água das Flores",
+            "populacao-estimada": 21767
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05804",
+            "nome-municipio": "Olho d'Água do Casado",
+            "populacao-estimada": 9459
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "05903",
+            "nome-municipio": "Olho d'Água Grande",
+            "populacao-estimada": 5195
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06000",
+            "nome-municipio": "Olivença",
+            "populacao-estimada": 11772
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06109",
+            "nome-municipio": "Ouro Branco",
+            "populacao-estimada": 11635
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06208",
+            "nome-municipio": "Palestina",
+            "populacao-estimada": 5066
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06307",
+            "nome-municipio": "Palmeira dos Índios",
+            "populacao-estimada": 74208
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06406",
+            "nome-municipio": "Pão de Açúcar",
+            "populacao-estimada": 24792
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06422",
+            "nome-municipio": "Pariconha",
+            "populacao-estimada": 10684
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06448",
+            "nome-municipio": "Paripueira",
+            "populacao-estimada": 13252
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06505",
+            "nome-municipio": "Passo de Camaragibe",
+            "populacao-estimada": 15461
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06604",
+            "nome-municipio": "Paulo Jacinto",
+            "populacao-estimada": 7679
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06703",
+            "nome-municipio": "Penedo",
+            "populacao-estimada": 64497
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06802",
+            "nome-municipio": "Piaçabuçu",
+            "populacao-estimada": 18074
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "06901",
+            "nome-municipio": "Pilar",
+            "populacao-estimada": 35552
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07008",
+            "nome-municipio": "Pindoba",
+            "populacao-estimada": 2953
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07107",
+            "nome-municipio": "Piranhas",
+            "populacao-estimada": 25298
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07206",
+            "nome-municipio": "Poço das Trincheiras",
+            "populacao-estimada": 14575
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07305",
+            "nome-municipio": "Porto Calvo",
+            "populacao-estimada": 27501
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07404",
+            "nome-municipio": "Porto de Pedras",
+            "populacao-estimada": 7965
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07503",
+            "nome-municipio": "Porto Real do Colégio",
+            "populacao-estimada": 20327
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07602",
+            "nome-municipio": "Quebrangulo",
+            "populacao-estimada": 11496
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07701",
+            "nome-municipio": "Rio Largo",
+            "populacao-estimada": 76019
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07800",
+            "nome-municipio": "Roteiro",
+            "populacao-estimada": 6774
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "07909",
+            "nome-municipio": "Santa Luzia do Norte",
+            "populacao-estimada": 7386
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08006",
+            "nome-municipio": "Santana do Ipanema",
+            "populacao-estimada": 48232
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08105",
+            "nome-municipio": "Santana do Mundaú",
+            "populacao-estimada": 10899
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08204",
+            "nome-municipio": "São Brás",
+            "populacao-estimada": 7058
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08303",
+            "nome-municipio": "São José da Laje",
+            "populacao-estimada": 24226
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08402",
+            "nome-municipio": "São José da Tapera",
+            "populacao-estimada": 32626
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08501",
+            "nome-municipio": "São Luís do Quitunde",
+            "populacao-estimada": 34961
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08600",
+            "nome-municipio": "São Miguel dos Campos",
+            "populacao-estimada": 61827
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08709",
+            "nome-municipio": "São Miguel dos Milagres",
+            "populacao-estimada": 8022
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08808",
+            "nome-municipio": "São Sebastião",
+            "populacao-estimada": 34551
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08907",
+            "nome-municipio": "Satuba",
+            "populacao-estimada": 13949
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "08956",
+            "nome-municipio": "Senador Rui Palmeira",
+            "populacao-estimada": 14036
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "09004",
+            "nome-municipio": "Tanque d'Arca",
+            "populacao-estimada": 6270
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "09103",
+            "nome-municipio": "Taquarana",
+            "populacao-estimada": 20205
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "09152",
+            "nome-municipio": "Teotônio Vilela",
+            "populacao-estimada": 44666
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "09202",
+            "nome-municipio": "Traipu",
+            "populacao-estimada": 28070
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "09301",
+            "nome-municipio": "União dos Palmares",
+            "populacao-estimada": 66477
+        },
+        {
+            "uf": "Alagoas",
+            "cod-uf": 27,
+            "cod-municipio": "09400",
+            "nome-municipio": "Viçosa",
+            "populacao-estimada": 26143
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00029",
+            "nome-municipio": "Alvarães",
+            "populacao-estimada": 15908
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00060",
+            "nome-municipio": "Amaturá",
+            "populacao-estimada": 11242
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00086",
+            "nome-municipio": "Anamã",
+            "populacao-estimada": 12978
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00102",
+            "nome-municipio": "Anori",
+            "populacao-estimada": 20196
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00144",
+            "nome-municipio": "Apuí",
+            "populacao-estimada": 21406
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00201",
+            "nome-municipio": "Atalaia do Norte",
+            "populacao-estimada": 19054
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00300",
+            "nome-municipio": "Autazes",
+            "populacao-estimada": 38454
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00409",
+            "nome-municipio": "Barcelos",
+            "populacao-estimada": 27743
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00508",
+            "nome-municipio": "Barreirinha",
+            "populacao-estimada": 31542
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00607",
+            "nome-municipio": "Benjamin Constant",
+            "populacao-estimada": 41329
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00631",
+            "nome-municipio": "Beruri",
+            "populacao-estimada": 18978
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00680",
+            "nome-municipio": "Boa Vista do Ramos",
+            "populacao-estimada": 18483
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00706",
+            "nome-municipio": "Boca do Acre",
+            "populacao-estimada": 34176
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00805",
+            "nome-municipio": "Borba",
+            "populacao-estimada": 40464
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00839",
+            "nome-municipio": "Caapiranga",
+            "populacao-estimada": 12820
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "00904",
+            "nome-municipio": "Canutama",
+            "populacao-estimada": 15490
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01001",
+            "nome-municipio": "Carauari",
+            "populacao-estimada": 28337
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01100",
+            "nome-municipio": "Careiro",
+            "populacao-estimada": 37399
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01159",
+            "nome-municipio": "Careiro da Várzea",
+            "populacao-estimada": 29190
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01209",
+            "nome-municipio": "Coari",
+            "populacao-estimada": 84762
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01308",
+            "nome-municipio": "Codajás",
+            "populacao-estimada": 27817
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01407",
+            "nome-municipio": "Eirunepé",
+            "populacao-estimada": 34888
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01506",
+            "nome-municipio": "Envira",
+            "populacao-estimada": 19492
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01605",
+            "nome-municipio": "Fonte Boa",
+            "populacao-estimada": 19669
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01654",
+            "nome-municipio": "Guajará",
+            "populacao-estimada": 16339
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01704",
+            "nome-municipio": "Humaitá",
+            "populacao-estimada": 53383
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01803",
+            "nome-municipio": "Ipixuna",
+            "populacao-estimada": 28299
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01852",
+            "nome-municipio": "Iranduba",
+            "populacao-estimada": 47407
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01902",
+            "nome-municipio": "Itacoatiara",
+            "populacao-estimada": 99854
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "01951",
+            "nome-municipio": "Itamarati",
+            "populacao-estimada": 8128
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02009",
+            "nome-municipio": "Itapiranga",
+            "populacao-estimada": 9125
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02108",
+            "nome-municipio": "Japurá",
+            "populacao-estimada": 4205
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02207",
+            "nome-municipio": "Juruá",
+            "populacao-estimada": 13956
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02306",
+            "nome-municipio": "Jutaí",
+            "populacao-estimada": 15824
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02405",
+            "nome-municipio": "Lábrea",
+            "populacao-estimada": 44861
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02504",
+            "nome-municipio": "Manacapuru",
+            "populacao-estimada": 96460
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02553",
+            "nome-municipio": "Manaquiri",
+            "populacao-estimada": "30.222 (2)"
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02603",
+            "nome-municipio": "Manaus",
+            "populacao-estimada": 2130264
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02702",
+            "nome-municipio": "Manicoré",
+            "populacao-estimada": 54708
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02801",
+            "nome-municipio": "Maraã",
+            "populacao-estimada": 18531
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "02900",
+            "nome-municipio": "Maués",
+            "populacao-estimada": 62212
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03007",
+            "nome-municipio": "Nhamundá",
+            "populacao-estimada": 20902
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03106",
+            "nome-municipio": "Nova Olinda do Norte",
+            "populacao-estimada": 36431
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03205",
+            "nome-municipio": "Novo Airão",
+            "populacao-estimada": 18586
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03304",
+            "nome-municipio": "Novo Aripuanã",
+            "populacao-estimada": 25112
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03403",
+            "nome-municipio": "Parintins",
+            "populacao-estimada": 113832
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03502",
+            "nome-municipio": "Pauini",
+            "populacao-estimada": 19597
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03536",
+            "nome-municipio": "Presidente Figueiredo",
+            "populacao-estimada": 34574
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03569",
+            "nome-municipio": "Rio Preto da Eva",
+            "populacao-estimada": 32001
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03601",
+            "nome-municipio": "Santa Isabel do Rio Negro",
+            "populacao-estimada": "23.765 (3)"
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03700",
+            "nome-municipio": "Santo Antônio do Içá",
+            "populacao-estimada": 23075
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03809",
+            "nome-municipio": "São Gabriel da Cachoeira",
+            "populacao-estimada": 44553
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03908",
+            "nome-municipio": "São Paulo de Olivença",
+            "populacao-estimada": 38047
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "03957",
+            "nome-municipio": "São Sebastião do Uatumã",
+            "populacao-estimada": 13421
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "04005",
+            "nome-municipio": "Silves",
+            "populacao-estimada": 9211
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "04062",
+            "nome-municipio": "Tabatinga",
+            "populacao-estimada": 63635
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "04104",
+            "nome-municipio": "Tapauá",
+            "populacao-estimada": 17930
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "04203",
+            "nome-municipio": "Tefé",
+            "populacao-estimada": 62021
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "04237",
+            "nome-municipio": "Tonantins",
+            "populacao-estimada": 18782
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "04260",
+            "nome-municipio": "Uarini",
+            "populacao-estimada": "13.428 (4)"
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "04302",
+            "nome-municipio": "Urucará",
+            "populacao-estimada": "16.968 (5)"
+        },
+        {
+            "uf": "Amazonas",
+            "cod-uf": 13,
+            "cod-municipio": "04401",
+            "nome-municipio": "Urucurituba",
+            "populacao-estimada": 22148
+        },
+        {
+            "uf": "Bahia",
+            "cod-uf": 29,
+            "cod-municipio": "09604",
+            "nome-municipio": "Crisópolis",
+            "populacao-estimada": 21835
+        },
+        {
+            "uf": "Mato Grosso do Sul",
+            "cod-uf": 50,
+            "cod-municipio": "5007554",
+            "nome-municipio": "Santa Rita do Pardo",
+            "populacao-estimada": 7900
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "00102",
+            "nome-municipio": "Acorizal",
+            "populacao-estimada": 5269
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "00201",
+            "nome-municipio": "Água Boa",
+            "populacao-estimada": 24501
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "00250",
+            "nome-municipio": "Alta Floresta",
+            "populacao-estimada": 50189
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "00300",
+            "nome-municipio": "Alto Araguaia",
+            "populacao-estimada": 18164
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "00359",
+            "nome-municipio": "Alto Boa Vista",
+            "populacao-estimada": 6466
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "00409",
+            "nome-municipio": "Alto Garças",
+            "populacao-estimada": 11532
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "00508",
+            "nome-municipio": "Alto Paraguai",
+            "populacao-estimada": 10921
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "00607",
+            "nome-municipio": "Alto Taquari",
+            "populacao-estimada": 10246
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "00805",
+            "nome-municipio": "Apiacás",
+            "populacao-estimada": 9694
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01001",
+            "nome-municipio": "Araguaiana",
+            "populacao-estimada": 3036
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01209",
+            "nome-municipio": "Araguainha",
+            "populacao-estimada": 931
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01258",
+            "nome-municipio": "Araputanga",
+            "populacao-estimada": 16223
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01308",
+            "nome-municipio": "Arenápolis",
+            "populacao-estimada": 9455
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01407",
+            "nome-municipio": "Aripuanã",
+            "populacao-estimada": 21357
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01605",
+            "nome-municipio": "Barão de Melgaço",
+            "populacao-estimada": 7872
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01704",
+            "nome-municipio": "Barra do Bugres",
+            "populacao-estimada": 33644
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01803",
+            "nome-municipio": "Barra do Garças",
+            "populacao-estimada": 58974
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01852",
+            "nome-municipio": "Bom Jesus do Araguaia",
+            "populacao-estimada": 6266
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "01902",
+            "nome-municipio": "Brasnorte",
+            "populacao-estimada": 18688
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "02504",
+            "nome-municipio": "Cáceres",
+            "populacao-estimada": 91271
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "02603",
+            "nome-municipio": "Campinápolis",
+            "populacao-estimada": 15386
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "02637",
+            "nome-municipio": "Campo Novo do Parecis",
+            "populacao-estimada": 33551
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "02678",
+            "nome-municipio": "Campo Verde",
+            "populacao-estimada": 39933
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "02686",
+            "nome-municipio": "Campos de Júlio",
+            "populacao-estimada": 6512
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "02694",
+            "nome-municipio": "Canabrava do Norte",
+            "populacao-estimada": 4630
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "02702",
+            "nome-municipio": "Canarana",
+            "populacao-estimada": 20707
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "02793",
+            "nome-municipio": "Carlinda",
+            "populacao-estimada": 10136
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "02850",
+            "nome-municipio": "Castanheira",
+            "populacao-estimada": 8454
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03007",
+            "nome-municipio": "Chapada dos Guimarães",
+            "populacao-estimada": 19049
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03056",
+            "nome-municipio": "Cláudia",
+            "populacao-estimada": 11716
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03106",
+            "nome-municipio": "Cocalinho",
+            "populacao-estimada": 5535
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03205",
+            "nome-municipio": "Colíder",
+            "populacao-estimada": 32298
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03254",
+            "nome-municipio": "Colniza",
+            "populacao-estimada": 36161
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03304",
+            "nome-municipio": "Comodoro",
+            "populacao-estimada": 19932
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03353",
+            "nome-municipio": "Confresa",
+            "populacao-estimada": 29471
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03361",
+            "nome-municipio": "Conquista D'Oeste",
+            "populacao-estimada": 3860
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03379",
+            "nome-municipio": "Cotriguaçu",
+            "populacao-estimada": 18689
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03403",
+            "nome-municipio": "Cuiabá",
+            "populacao-estimada": 590118
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03437",
+            "nome-municipio": "Curvelândia",
+            "populacao-estimada": 5049
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03452",
+            "nome-municipio": "Denise",
+            "populacao-estimada": 9115
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03502",
+            "nome-municipio": "Diamantino",
+            "populacao-estimada": 21294
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03601",
+            "nome-municipio": "Dom Aquino",
+            "populacao-estimada": 7977
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03700",
+            "nome-municipio": "Feliz Natal",
+            "populacao-estimada": 13451
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03809",
+            "nome-municipio": "Figueirópolis D'Oeste",
+            "populacao-estimada": 3444
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03858",
+            "nome-municipio": "Gaúcha do Norte",
+            "populacao-estimada": 7296
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03908",
+            "nome-municipio": "General Carneiro",
+            "populacao-estimada": 5333
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "03957",
+            "nome-municipio": "Glória D'Oeste",
+            "populacao-estimada": 2964
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "04104",
+            "nome-municipio": "Guarantã do Norte",
+            "populacao-estimada": 34500
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "04203",
+            "nome-municipio": "Guiratinga",
+            "populacao-estimada": 14615
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "04500",
+            "nome-municipio": "Indiavaí",
+            "populacao-estimada": 2648
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "04526",
+            "nome-municipio": "Ipiranga do Norte",
+            "populacao-estimada": 7171
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "04542",
+            "nome-municipio": "Itanhangá",
+            "populacao-estimada": 6396
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "04559",
+            "nome-municipio": "Itaúba",
+            "populacao-estimada": 3800
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "04609",
+            "nome-municipio": "Itiquira",
+            "populacao-estimada": 12789
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "04807",
+            "nome-municipio": "Jaciara",
+            "populacao-estimada": 26633
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "04906",
+            "nome-municipio": "Jangada",
+            "populacao-estimada": 7996
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05002",
+            "nome-municipio": "Jauru",
+            "populacao-estimada": 8776
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05101",
+            "nome-municipio": "Juara",
+            "populacao-estimada": 33851
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05150",
+            "nome-municipio": "Juína",
+            "populacao-estimada": 39779
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05176",
+            "nome-municipio": "Juruena",
+            "populacao-estimada": 14913
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05200",
+            "nome-municipio": "Juscimeira",
+            "populacao-estimada": 10971
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05234",
+            "nome-municipio": "Lambari D'Oeste",
+            "populacao-estimada": 5887
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05259",
+            "nome-municipio": "Lucas do Rio Verde",
+            "populacao-estimada": 61515
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05309",
+            "nome-municipio": "Luciara",
+            "populacao-estimada": 2043
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05580",
+            "nome-municipio": "Marcelândia",
+            "populacao-estimada": 10422
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05606",
+            "nome-municipio": "Matupá",
+            "populacao-estimada": 15870
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05622",
+            "nome-municipio": "Mirassol d'Oeste",
+            "populacao-estimada": 26768
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05903",
+            "nome-municipio": "Nobres",
+            "populacao-estimada": 14917
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06000",
+            "nome-municipio": "Nortelândia",
+            "populacao-estimada": 5895
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06109",
+            "nome-municipio": "Nossa Senhora do Livramento",
+            "populacao-estimada": 12484
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06158",
+            "nome-municipio": "Nova Bandeirantes",
+            "populacao-estimada": 14473
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06208",
+            "nome-municipio": "Nova Brasilândia",
+            "populacao-estimada": 3827
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06216",
+            "nome-municipio": "Nova Canaã do Norte",
+            "populacao-estimada": 12388
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08808",
+            "nome-municipio": "Nova Guarita",
+            "populacao-estimada": 4457
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06182",
+            "nome-municipio": "Nova Lacerda",
+            "populacao-estimada": 6338
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08857",
+            "nome-municipio": "Nova Marilândia",
+            "populacao-estimada": 3159
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08907",
+            "nome-municipio": "Nova Maringá",
+            "populacao-estimada": 8182
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08956",
+            "nome-municipio": "Nova Monte Verde",
+            "populacao-estimada": 8822
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06224",
+            "nome-municipio": "Nova Mutum",
+            "populacao-estimada": 42607
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06174",
+            "nome-municipio": "Nova Nazaré",
+            "populacao-estimada": 3655
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06232",
+            "nome-municipio": "Nova Olímpia",
+            "populacao-estimada": 19465
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06190",
+            "nome-municipio": "Nova Santa Helena",
+            "populacao-estimada": 3596
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06240",
+            "nome-municipio": "Nova Ubiratã",
+            "populacao-estimada": 11352
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06257",
+            "nome-municipio": "Nova Xavantina",
+            "populacao-estimada": 20639
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06273",
+            "nome-municipio": "Novo Horizonte do Norte",
+            "populacao-estimada": 3876
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06265",
+            "nome-municipio": "Novo Mundo",
+            "populacao-estimada": 8730
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06315",
+            "nome-municipio": "Novo Santo Antônio",
+            "populacao-estimada": 2498
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06281",
+            "nome-municipio": "Novo São Joaquim",
+            "populacao-estimada": 5066
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06299",
+            "nome-municipio": "Paranaíta",
+            "populacao-estimada": 10884
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06307",
+            "nome-municipio": "Paranatinga",
+            "populacao-estimada": 21612
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06372",
+            "nome-municipio": "Pedra Preta",
+            "populacao-estimada": 16965
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06422",
+            "nome-municipio": "Peixoto de Azevedo",
+            "populacao-estimada": 33630
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06455",
+            "nome-municipio": "Planalto da Serra",
+            "populacao-estimada": 2604
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06505",
+            "nome-municipio": "Poconé",
+            "populacao-estimada": 32241
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06653",
+            "nome-municipio": "Pontal do Araguaia",
+            "populacao-estimada": 6387
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06703",
+            "nome-municipio": "Ponte Branca",
+            "populacao-estimada": 1560
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06752",
+            "nome-municipio": "Pontes e Lacerda",
+            "populacao-estimada": 43832
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06778",
+            "nome-municipio": "Porto Alegre do Norte",
+            "populacao-estimada": 11995
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06802",
+            "nome-municipio": "Porto dos Gaúchos",
+            "populacao-estimada": 5283
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06828",
+            "nome-municipio": "Porto Esperidião",
+            "populacao-estimada": 11603
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "06851",
+            "nome-municipio": "Porto Estrela",
+            "populacao-estimada": 2973
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07008",
+            "nome-municipio": "Poxoréu",
+            "populacao-estimada": 15985
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07040",
+            "nome-municipio": "Primavera do Leste",
+            "populacao-estimada": 59293
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07065",
+            "nome-municipio": "Querência",
+            "populacao-estimada": 16512
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07156",
+            "nome-municipio": "Reserva do Cabaçal",
+            "populacao-estimada": 2646
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07180",
+            "nome-municipio": "Ribeirão Cascalheira",
+            "populacao-estimada": 9796
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07198",
+            "nome-municipio": "Ribeirãozinho",
+            "populacao-estimada": 2320
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07206",
+            "nome-municipio": "Rio Branco",
+            "populacao-estimada": 5019
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07578",
+            "nome-municipio": "Rondolândia",
+            "populacao-estimada": 3854
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07602",
+            "nome-municipio": "Rondonópolis",
+            "populacao-estimada": 222316
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07701",
+            "nome-municipio": "Rosário Oeste",
+            "populacao-estimada": 16908
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07750",
+            "nome-municipio": "Salto do Céu",
+            "populacao-estimada": 3347
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07248",
+            "nome-municipio": "Santa Carmem",
+            "populacao-estimada": 4360
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07743",
+            "nome-municipio": "Santa Cruz do Xingu",
+            "populacao-estimada": 2421
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07768",
+            "nome-municipio": "Santa Rita do Trivelato",
+            "populacao-estimada": 3231
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07776",
+            "nome-municipio": "Santa Terezinha",
+            "populacao-estimada": 8049
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07263",
+            "nome-municipio": "Santo Afonso",
+            "populacao-estimada": 3050
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07792",
+            "nome-municipio": "Santo Antônio do Leste",
+            "populacao-estimada": 4875
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07800",
+            "nome-municipio": "Santo Antônio do Leverger",
+            "populacao-estimada": 18392
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07859",
+            "nome-municipio": "São Félix do Araguaia",
+            "populacao-estimada": 11290
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07297",
+            "nome-municipio": "São José do Povo",
+            "populacao-estimada": 3908
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07305",
+            "nome-municipio": "São José do Rio Claro",
+            "populacao-estimada": 19728
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07354",
+            "nome-municipio": "São José do Xingu",
+            "populacao-estimada": 5416
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07107",
+            "nome-municipio": "São José dos Quatro Marcos",
+            "populacao-estimada": 18452
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07404",
+            "nome-municipio": "São Pedro da Cipa",
+            "populacao-estimada": 4541
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07875",
+            "nome-municipio": "Sapezal",
+            "populacao-estimada": 24305
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07883",
+            "nome-municipio": "Serra Nova Dourada",
+            "populacao-estimada": 1575
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07909",
+            "nome-municipio": "Sinop",
+            "populacao-estimada": 135874
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07925",
+            "nome-municipio": "Sorriso",
+            "populacao-estimada": 85223
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07941",
+            "nome-municipio": "Tabaporã",
+            "populacao-estimada": 9309
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "07958",
+            "nome-municipio": "Tangará da Serra",
+            "populacao-estimada": 98828
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08006",
+            "nome-municipio": "Tapurah",
+            "populacao-estimada": 12967
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08055",
+            "nome-municipio": "Terra Nova do Norte",
+            "populacao-estimada": 9606
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08105",
+            "nome-municipio": "Tesouro",
+            "populacao-estimada": 3682
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08204",
+            "nome-municipio": "Torixoréu",
+            "populacao-estimada": 3576
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08303",
+            "nome-municipio": "União do Sul",
+            "populacao-estimada": 3468
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08352",
+            "nome-municipio": "Vale de São Domingos",
+            "populacao-estimada": 3041
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08402",
+            "nome-municipio": "Várzea Grande",
+            "populacao-estimada": 274013
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08501",
+            "nome-municipio": "Vera",
+            "populacao-estimada": 10901
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "05507",
+            "nome-municipio": "Vila Bela da Santíssima Trindade",
+            "populacao-estimada": 15534
+        },
+        {
+            "uf": "Mato Grosso",
+            "cod-uf": 51,
+            "cod-municipio": "08600",
+            "nome-municipio": "Vila Rica",
+            "populacao-estimada": 24835
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00107",
+            "nome-municipio": "Abaetetuba",
+            "populacao-estimada": 153380
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00131",
+            "nome-municipio": "Abel Figueiredo",
+            "populacao-estimada": 7231
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00206",
+            "nome-municipio": "Acará",
+            "populacao-estimada": 54096
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00305",
+            "nome-municipio": "Afuá",
+            "populacao-estimada": 38144
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00347",
+            "nome-municipio": "Água Azul do Norte",
+            "populacao-estimada": 26682
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00404",
+            "nome-municipio": "Alenquer",
+            "populacao-estimada": 55246
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00503",
+            "nome-municipio": "Almeirim",
+            "populacao-estimada": 33195
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00602",
+            "nome-municipio": "Altamira",
+            "populacao-estimada": 111435
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00701",
+            "nome-municipio": "Anajás",
+            "populacao-estimada": 28466
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00800",
+            "nome-municipio": "Ananindeua",
+            "populacao-estimada": 516057
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00859",
+            "nome-municipio": "Anapu",
+            "populacao-estimada": 27096
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00909",
+            "nome-municipio": "Augusto Corrêa",
+            "populacao-estimada": 44734
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "00958",
+            "nome-municipio": "Aurora do Pará",
+            "populacao-estimada": 30471
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01006",
+            "nome-municipio": "Aveiro",
+            "populacao-estimada": 15947
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01105",
+            "nome-municipio": "Bagre",
+            "populacao-estimada": 29808
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01204",
+            "nome-municipio": "Baião",
+            "populacao-estimada": 46110
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01253",
+            "nome-municipio": "Bannach",
+            "populacao-estimada": 3200
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01303",
+            "nome-municipio": "Barcarena",
+            "populacao-estimada": 121190
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01402",
+            "nome-municipio": "Belém",
+            "populacao-estimada": 1452275
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01451",
+            "nome-municipio": "Belterra",
+            "populacao-estimada": 17249
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01501",
+            "nome-municipio": "Benevides",
+            "populacao-estimada": 60990
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01576",
+            "nome-municipio": "Bom Jesus do Tocantins",
+            "populacao-estimada": 16517
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01600",
+            "nome-municipio": "Bonito",
+            "populacao-estimada": 15834
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01709",
+            "nome-municipio": "Bragança",
+            "populacao-estimada": 124184
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01725",
+            "nome-municipio": "Brasil Novo",
+            "populacao-estimada": 14689
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01758",
+            "nome-municipio": "Brejo Grande do Araguaia",
+            "populacao-estimada": 7182
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01782",
+            "nome-municipio": "Breu Branco",
+            "populacao-estimada": 64194
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01808",
+            "nome-municipio": "Breves",
+            "populacao-estimada": 99896
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01907",
+            "nome-municipio": "Bujaru",
+            "populacao-estimada": 28331
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02004",
+            "nome-municipio": "Cachoeira do Arari",
+            "populacao-estimada": 23110
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "01956",
+            "nome-municipio": "Cachoeira do Piriá",
+            "populacao-estimada": 32947
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02103",
+            "nome-municipio": "Cametá",
+            "populacao-estimada": 134100
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02152",
+            "nome-municipio": "Canaã dos Carajás",
+            "populacao-estimada": 36027
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02202",
+            "nome-municipio": "Capanema",
+            "populacao-estimada": 67150
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02301",
+            "nome-municipio": "Capitão Poço",
+            "populacao-estimada": 52839
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02400",
+            "nome-municipio": "Castanhal",
+            "populacao-estimada": 195253
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02509",
+            "nome-municipio": "Chaves",
+            "populacao-estimada": 23066
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02608",
+            "nome-municipio": "Colares",
+            "populacao-estimada": 11759
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02707",
+            "nome-municipio": "Conceição do Araguaia",
+            "populacao-estimada": 46571
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02756",
+            "nome-municipio": "Concórdia do Pará",
+            "populacao-estimada": 32395
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02764",
+            "nome-municipio": "Cumaru do Norte",
+            "populacao-estimada": 13093
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02772",
+            "nome-municipio": "Curionópolis",
+            "populacao-estimada": 17453
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02806",
+            "nome-municipio": "Curralinho",
+            "populacao-estimada": 33490
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02855",
+            "nome-municipio": "Curuá",
+            "populacao-estimada": 13996
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02905",
+            "nome-municipio": "Curuçá",
+            "populacao-estimada": 38959
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02939",
+            "nome-municipio": "Dom Eliseu",
+            "populacao-estimada": 58071
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "02954",
+            "nome-municipio": "Eldorado do Carajás",
+            "populacao-estimada": 32892
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03002",
+            "nome-municipio": "Faro",
+            "populacao-estimada": 7009
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03044",
+            "nome-municipio": "Floresta do Araguaia",
+            "populacao-estimada": 19746
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03077",
+            "nome-municipio": "Garrafão do Norte",
+            "populacao-estimada": 25363
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03093",
+            "nome-municipio": "Goianésia do Pará",
+            "populacao-estimada": 39352
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03101",
+            "nome-municipio": "Gurupá",
+            "populacao-estimada": 32458
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03200",
+            "nome-municipio": "Igarapé-Açu",
+            "populacao-estimada": 37753
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03309",
+            "nome-municipio": "Igarapé-Miri",
+            "populacao-estimada": 60994
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03408",
+            "nome-municipio": "Inhangapi",
+            "populacao-estimada": 11388
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03457",
+            "nome-municipio": "Ipixuna do Pará",
+            "populacao-estimada": 62237
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03507",
+            "nome-municipio": "Irituia",
+            "populacao-estimada": 31673
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03606",
+            "nome-municipio": "Itaituba",
+            "populacao-estimada": 98523
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03705",
+            "nome-municipio": "Itupiranga",
+            "populacao-estimada": 51835
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03754",
+            "nome-municipio": "Jacareacanga",
+            "populacao-estimada": "8.059 (6)"
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03804",
+            "nome-municipio": "Jacundá",
+            "populacao-estimada": 57526
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "03903",
+            "nome-municipio": "Juruti",
+            "populacao-estimada": 56325
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04000",
+            "nome-municipio": "Limoeiro do Ajuru",
+            "populacao-estimada": 28138
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04059",
+            "nome-municipio": "Mãe do Rio",
+            "populacao-estimada": 29260
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04109",
+            "nome-municipio": "Magalhães Barata",
+            "populacao-estimada": 8316
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04208",
+            "nome-municipio": "Marabá",
+            "populacao-estimada": 271594
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04307",
+            "nome-municipio": "Maracanã",
+            "populacao-estimada": 28679
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04406",
+            "nome-municipio": "Marapanim",
+            "populacao-estimada": 27569
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04422",
+            "nome-municipio": "Marituba",
+            "populacao-estimada": 127858
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04455",
+            "nome-municipio": "Medicilândia",
+            "populacao-estimada": 30726
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04505",
+            "nome-municipio": "Melgaço",
+            "populacao-estimada": 26897
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04604",
+            "nome-municipio": "Mocajuba",
+            "populacao-estimada": 30277
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04703",
+            "nome-municipio": "Moju",
+            "populacao-estimada": 79825
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04752",
+            "nome-municipio": "Mojuí dos Campos",
+            "populacao-estimada": 15646
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04802",
+            "nome-municipio": "Monte Alegre",
+            "populacao-estimada": 56466
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04901",
+            "nome-municipio": "Muaná",
+            "populacao-estimada": 39231
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04950",
+            "nome-municipio": "Nova Esperança do Piriá",
+            "populacao-estimada": 20789
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "04976",
+            "nome-municipio": "Nova Ipixuna",
+            "populacao-estimada": 16221
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05007",
+            "nome-municipio": "Nova Timboteua",
+            "populacao-estimada": 14942
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05031",
+            "nome-municipio": "Novo Progresso",
+            "populacao-estimada": 25071
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05064",
+            "nome-municipio": "Novo Repartimento",
+            "populacao-estimada": 73802
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05106",
+            "nome-municipio": "Óbidos",
+            "populacao-estimada": 50727
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05205",
+            "nome-municipio": "Oeiras do Pará",
+            "populacao-estimada": 31619
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05304",
+            "nome-municipio": "Oriximiná",
+            "populacao-estimada": 71078
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05403",
+            "nome-municipio": "Ourém",
+            "populacao-estimada": 17356
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05437",
+            "nome-municipio": "Ourilândia do Norte",
+            "populacao-estimada": 31921
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05486",
+            "nome-municipio": "Pacajá",
+            "populacao-estimada": 46383
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05494",
+            "nome-municipio": "Palestina do Pará",
+            "populacao-estimada": 7386
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05502",
+            "nome-municipio": "Paragominas",
+            "populacao-estimada": 110026
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05536",
+            "nome-municipio": "Parauapebas",
+            "populacao-estimada": 202356
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05551",
+            "nome-municipio": "Pau D'Arco",
+            "populacao-estimada": 5341
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05601",
+            "nome-municipio": "Peixe-Boi",
+            "populacao-estimada": 7860
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05635",
+            "nome-municipio": "Piçarra",
+            "populacao-estimada": 12632
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05650",
+            "nome-municipio": "Placas",
+            "populacao-estimada": 30109
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05700",
+            "nome-municipio": "Ponta de Pedras",
+            "populacao-estimada": 30219
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05809",
+            "nome-municipio": "Portel",
+            "populacao-estimada": 60322
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "05908",
+            "nome-municipio": "Porto de Moz",
+            "populacao-estimada": 39991
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06005",
+            "nome-municipio": "Prainha",
+            "populacao-estimada": 29067
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06104",
+            "nome-municipio": "Primavera",
+            "populacao-estimada": 10534
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06112",
+            "nome-municipio": "Quatipuru",
+            "populacao-estimada": 13237
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06138",
+            "nome-municipio": "Redenção",
+            "populacao-estimada": 82464
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06161",
+            "nome-municipio": "Rio Maria",
+            "populacao-estimada": 17705
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06187",
+            "nome-municipio": "Rondon do Pará",
+            "populacao-estimada": 50925
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06195",
+            "nome-municipio": "Rurópolis",
+            "populacao-estimada": 49093
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06203",
+            "nome-municipio": "Salinópolis",
+            "populacao-estimada": 39569
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06302",
+            "nome-municipio": "Salvaterra",
+            "populacao-estimada": 23096
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06351",
+            "nome-municipio": "Santa Bárbara do Pará",
+            "populacao-estimada": 20492
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06401",
+            "nome-municipio": "Santa Cruz do Arari",
+            "populacao-estimada": 9845
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06500",
+            "nome-municipio": "Santa Izabel do Pará",
+            "populacao-estimada": 68836
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06559",
+            "nome-municipio": "Santa Luzia do Pará",
+            "populacao-estimada": 19316
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06583",
+            "nome-municipio": "Santa Maria das Barreiras",
+            "populacao-estimada": 20849
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06609",
+            "nome-municipio": "Santa Maria do Pará",
+            "populacao-estimada": 24186
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06708",
+            "nome-municipio": "Santana do Araguaia",
+            "populacao-estimada": 70764
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06807",
+            "nome-municipio": "Santarém",
+            "populacao-estimada": 296302
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "06906",
+            "nome-municipio": "Santarém Novo",
+            "populacao-estimada": 6526
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07003",
+            "nome-municipio": "Santo Antônio do Tauá",
+            "populacao-estimada": 30611
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07102",
+            "nome-municipio": "São Caetano de Odivelas",
+            "populacao-estimada": 17563
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07151",
+            "nome-municipio": "São Domingos do Araguaia",
+            "populacao-estimada": 24859
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07201",
+            "nome-municipio": "São Domingos do Capim",
+            "populacao-estimada": 31123
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07300",
+            "nome-municipio": "São Félix do Xingu",
+            "populacao-estimada": 124806
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07409",
+            "nome-municipio": "São Francisco do Pará",
+            "populacao-estimada": 15454
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07458",
+            "nome-municipio": "São Geraldo do Araguaia",
+            "populacao-estimada": 24188
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07466",
+            "nome-municipio": "São João da Ponta",
+            "populacao-estimada": 5970
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07474",
+            "nome-municipio": "São João de Pirabas",
+            "populacao-estimada": 22415
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07508",
+            "nome-municipio": "São João do Araguaia",
+            "populacao-estimada": 13616
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07607",
+            "nome-municipio": "São Miguel do Guamá",
+            "populacao-estimada": 57364
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07706",
+            "nome-municipio": "São Sebastião da Boa Vista",
+            "populacao-estimada": 25904
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07755",
+            "nome-municipio": "Sapucaia",
+            "populacao-estimada": 5766
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07805",
+            "nome-municipio": "Senador José Porfírio",
+            "populacao-estimada": 11357
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07904",
+            "nome-municipio": "Soure",
+            "populacao-estimada": 24682
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07953",
+            "nome-municipio": "Tailândia",
+            "populacao-estimada": 103321
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07961",
+            "nome-municipio": "Terra Alta",
+            "populacao-estimada": 11399
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "07979",
+            "nome-municipio": "Terra Santa",
+            "populacao-estimada": 18257
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08001",
+            "nome-municipio": "Tomé-Açu",
+            "populacao-estimada": 61709
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08035",
+            "nome-municipio": "Tracuateua",
+            "populacao-estimada": 30108
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08050",
+            "nome-municipio": "Trairão",
+            "populacao-estimada": 18469
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08084",
+            "nome-municipio": "Tucumã",
+            "populacao-estimada": 38508
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08100",
+            "nome-municipio": "Tucuruí",
+            "populacao-estimada": 110516
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08126",
+            "nome-municipio": "Ulianópolis",
+            "populacao-estimada": 57525
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08159",
+            "nome-municipio": "Uruará",
+            "populacao-estimada": 44258
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08209",
+            "nome-municipio": "Vigia",
+            "populacao-estimada": 52216
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08308",
+            "nome-municipio": "Viseu",
+            "populacao-estimada": 59735
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08357",
+            "nome-municipio": "Vitória do Xingu",
+            "populacao-estimada": 14719
+        },
+        {
+            "uf": "Pará",
+            "cod-uf": 15,
+            "cod-municipio": "08407",
+            "nome-municipio": "Xinguara",
+            "populacao-estimada": 43530
+        },
+        {
+            "uf": "Paraná",
+            "cod-uf": 41,
+            "cod-municipio": "4106001",
+            "nome-municipio": "Congonhinhas",
+            "populacao-estimada": 8821
+        },
+        {
+            "uf": "Paraná",
+            "cod-uf": 41,
+            "cod-municipio": "4111258",
+            "nome-municipio": "Itaperuçu",
+            "populacao-estimada": 27500
+        },
+        {
+            "uf": "Paraná",
+            "cod-uf": 41,
+            "cod-municipio": "4125704",
+            "nome-municipio": "São Miguel do Iguaçu",
+            "populacao-estimada": 27461
+        },
+        {
+            "uf": "Paraná",
+            "cod-uf": 41,
+            "cod-municipio": "4128005",
+            "nome-municipio": "Ubirata",
+            "populacao-estimada": 24749
+        },
+        {
+            "uf": "Rio de Janeiro",
+            "cod-uf": 33,
+            "cod-municipio": "3303203",
+            "nome-municipio": "Ninópoles",
+            "populacao-estimada": 146774
+        },
+        {
+            "uf": "Rio Grande do Sul",
+            "cod-uf": 43,
+            "cod-municipio": "4322376",
+            "nome-municipio": "Unistalda",
+            "populacao-estimada": 2321
+        },
+        {
+            "uf": "São Paulo",
+            "cod-uf": 35,
+            "cod-municipio": "3535101",
+            "nome-municipio": "Palmares Paulista",
+            "populacao-estimada": 13486
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "00251",
+            "nome-municipio": "Abreulândia",
+            "populacao-estimada": 2571
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "00301",
+            "nome-municipio": "Aguiarnópolis",
+            "populacao-estimada": 6460
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "00350",
+            "nome-municipio": "Aliança do Tocantins",
+            "populacao-estimada": 5527
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "00400",
+            "nome-municipio": "Almas",
+            "populacao-estimada": 7273
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "00707",
+            "nome-municipio": "Alvorada",
+            "populacao-estimada": 8516
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "01002",
+            "nome-municipio": "Ananás",
+            "populacao-estimada": 9749
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "01051",
+            "nome-municipio": "Angico",
+            "populacao-estimada": 3423
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "01101",
+            "nome-municipio": "Aparecida do Rio Negro",
+            "populacao-estimada": 4726
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "01309",
+            "nome-municipio": "Aragominas",
+            "populacao-estimada": 5865
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "01903",
+            "nome-municipio": "Araguacema",
+            "populacao-estimada": 7003
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "02000",
+            "nome-municipio": "Araguaçu",
+            "populacao-estimada": 8692
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "02109",
+            "nome-municipio": "Araguaína",
+            "populacao-estimada": 175960
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "02158",
+            "nome-municipio": "Araguanã",
+            "populacao-estimada": 5645
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "02208",
+            "nome-municipio": "Araguatins",
+            "populacao-estimada": 35216
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "02307",
+            "nome-municipio": "Arapoema",
+            "populacao-estimada": 6756
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "02406",
+            "nome-municipio": "Arraias",
+            "populacao-estimada": 10727
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "02554",
+            "nome-municipio": "Augustinópolis",
+            "populacao-estimada": 18089
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "02703",
+            "nome-municipio": "Aurora do Tocantins",
+            "populacao-estimada": 3735
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "02901",
+            "nome-municipio": "Axixá do Tocantins",
+            "populacao-estimada": 9776
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03008",
+            "nome-municipio": "Babaçulândia",
+            "populacao-estimada": 10752
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03057",
+            "nome-municipio": "Bandeirantes do Tocantins",
+            "populacao-estimada": 3500
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03073",
+            "nome-municipio": "Barra do Ouro",
+            "populacao-estimada": 4544
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03107",
+            "nome-municipio": "Barrolândia",
+            "populacao-estimada": 5643
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03206",
+            "nome-municipio": "Bernardo Sayão",
+            "populacao-estimada": 4518
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03305",
+            "nome-municipio": "Bom Jesus do Tocantins",
+            "populacao-estimada": 4700
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03602",
+            "nome-municipio": "Brasilândia do Tocantins",
+            "populacao-estimada": 2199
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03701",
+            "nome-municipio": "Brejinho de Nazaré",
+            "populacao-estimada": 5499
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03800",
+            "nome-municipio": "Buriti do Tocantins",
+            "populacao-estimada": 11135
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03826",
+            "nome-municipio": "Cachoeirinha",
+            "populacao-estimada": 2276
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03842",
+            "nome-municipio": "Campos Lindos",
+            "populacao-estimada": 9795
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03867",
+            "nome-municipio": "Cariri do Tocantins",
+            "populacao-estimada": 4296
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03883",
+            "nome-municipio": "Carmolândia",
+            "populacao-estimada": 2555
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03891",
+            "nome-municipio": "Carrasco Bonito",
+            "populacao-estimada": 4055
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "03909",
+            "nome-municipio": "Caseara",
+            "populacao-estimada": 5265
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "04105",
+            "nome-municipio": "Centenário",
+            "populacao-estimada": 2866
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "05102",
+            "nome-municipio": "Chapada da Natividade",
+            "populacao-estimada": 3364
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "04600",
+            "nome-municipio": "Chapada de Areia",
+            "populacao-estimada": 1407
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "05508",
+            "nome-municipio": "Colinas do Tocantins",
+            "populacao-estimada": 34839
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": 16703,
+            "nome-municipio": "Colméia",
+            "populacao-estimada": 8409
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "05557",
+            "nome-municipio": "Combinado",
+            "populacao-estimada": 4874
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "05607",
+            "nome-municipio": "Conceição do Tocantins",
+            "populacao-estimada": 4179
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "06001",
+            "nome-municipio": "Couto Magalhães",
+            "populacao-estimada": 5529
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "06100",
+            "nome-municipio": "Cristalândia",
+            "populacao-estimada": 7374
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "06258",
+            "nome-municipio": "Crixás do Tocantins",
+            "populacao-estimada": 1708
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "06506",
+            "nome-municipio": "Darcinópolis",
+            "populacao-estimada": 5988
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "07009",
+            "nome-municipio": "Dianópolis",
+            "populacao-estimada": 21738
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "07108",
+            "nome-municipio": "Divinópolis do Tocantins",
+            "populacao-estimada": 6868
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "07207",
+            "nome-municipio": "Dois Irmãos do Tocantins",
+            "populacao-estimada": 7286
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "07306",
+            "nome-municipio": "Dueré",
+            "populacao-estimada": 4727
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "07405",
+            "nome-municipio": "Esperantina",
+            "populacao-estimada": 10793
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "07553",
+            "nome-municipio": "Fátima",
+            "populacao-estimada": 3879
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "07652",
+            "nome-municipio": "Figueirópolis",
+            "populacao-estimada": 5352
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "07702",
+            "nome-municipio": "Filadélfia",
+            "populacao-estimada": 8893
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "08205",
+            "nome-municipio": "Formoso do Araguaia",
+            "populacao-estimada": 18684
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "08254",
+            "nome-municipio": "Fortaleza do Tabocão",
+            "populacao-estimada": 2584
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "08304",
+            "nome-municipio": "Goianorte",
+            "populacao-estimada": 5153
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "09005",
+            "nome-municipio": "Goiatins",
+            "populacao-estimada": 12973
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "09302",
+            "nome-municipio": "Guaraí",
+            "populacao-estimada": 25642
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "09500",
+            "nome-municipio": "Gurupi",
+            "populacao-estimada": 85523
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "09807",
+            "nome-municipio": "Ipueiras",
+            "populacao-estimada": 1955
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "10508",
+            "nome-municipio": "Itacajá",
+            "populacao-estimada": 7456
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "10706",
+            "nome-municipio": "Itaguatins",
+            "populacao-estimada": 5980
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "10904",
+            "nome-municipio": "Itapiratins",
+            "populacao-estimada": 3772
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "11100",
+            "nome-municipio": "Itaporã do Tocantins",
+            "populacao-estimada": 2465
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "11506",
+            "nome-municipio": "Jaú do Tocantins",
+            "populacao-estimada": 3821
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "11803",
+            "nome-municipio": "Juarina",
+            "populacao-estimada": 2229
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "11902",
+            "nome-municipio": "Lagoa da Confusão",
+            "populacao-estimada": 12808
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "11951",
+            "nome-municipio": "Lagoa do Tocantins",
+            "populacao-estimada": 4191
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "12009",
+            "nome-municipio": "Lajeado",
+            "populacao-estimada": 3092
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "12157",
+            "nome-municipio": "Lavandeira",
+            "populacao-estimada": 1875
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "12405",
+            "nome-municipio": "Lizarda",
+            "populacao-estimada": 3787
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "12454",
+            "nome-municipio": "Luzinópolis",
+            "populacao-estimada": 3038
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "12504",
+            "nome-municipio": "Marianópolis do Tocantins",
+            "populacao-estimada": 5054
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "12702",
+            "nome-municipio": "Mateiros",
+            "populacao-estimada": 2614
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "12801",
+            "nome-municipio": "Maurilândia do Tocantins",
+            "populacao-estimada": 3409
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "13205",
+            "nome-municipio": "Miracema do Tocantins",
+            "populacao-estimada": 19055
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "13304",
+            "nome-municipio": "Miranorte",
+            "populacao-estimada": 13426
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "13601",
+            "nome-municipio": "Monte do Carmo",
+            "populacao-estimada": 7770
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "13700",
+            "nome-municipio": "Monte Santo do Tocantins",
+            "populacao-estimada": 2264
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "13957",
+            "nome-municipio": "Muricilândia",
+            "populacao-estimada": 3507
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "14203",
+            "nome-municipio": "Natividade",
+            "populacao-estimada": 9312
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "14302",
+            "nome-municipio": "Nazaré",
+            "populacao-estimada": 4060
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "14880",
+            "nome-municipio": "Nova Olinda",
+            "populacao-estimada": 11715
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "15002",
+            "nome-municipio": "Nova Rosalândia",
+            "populacao-estimada": 4203
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "15101",
+            "nome-municipio": "Novo Acordo",
+            "populacao-estimada": 4267
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "15150",
+            "nome-municipio": "Novo Alegre",
+            "populacao-estimada": 2353
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "15259",
+            "nome-municipio": "Novo Jardim",
+            "populacao-estimada": 2697
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "15507",
+            "nome-municipio": "Oliveira de Fátima",
+            "populacao-estimada": 1110
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "21000",
+            "nome-municipio": "Palmas",
+            "populacao-estimada": 286787
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "15705",
+            "nome-municipio": "Palmeirante",
+            "populacao-estimada": 5859
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "13809",
+            "nome-municipio": "Palmeiras do Tocantins",
+            "populacao-estimada": 6535
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "15754",
+            "nome-municipio": "Palmeirópolis",
+            "populacao-estimada": 7687
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "16109",
+            "nome-municipio": "Paraíso do Tocantins",
+            "populacao-estimada": 50360
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "16208",
+            "nome-municipio": "Paranã",
+            "populacao-estimada": 10562
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "16307",
+            "nome-municipio": "Pau D'Arco",
+            "populacao-estimada": 4853
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "16505",
+            "nome-municipio": "Pedro Afonso",
+            "populacao-estimada": 13288
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "16604",
+            "nome-municipio": "Peixe",
+            "populacao-estimada": 11591
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "16653",
+            "nome-municipio": "Pequizeiro",
+            "populacao-estimada": 5453
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "17008",
+            "nome-municipio": "Pindorama do Tocantins",
+            "populacao-estimada": 4520
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "17206",
+            "nome-municipio": "Piraquê",
+            "populacao-estimada": 3044
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "17503",
+            "nome-municipio": "Pium",
+            "populacao-estimada": 7536
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "17800",
+            "nome-municipio": "Ponte Alta do Bom Jesus",
+            "populacao-estimada": 4645
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "17909",
+            "nome-municipio": "Ponte Alta do Tocantins",
+            "populacao-estimada": 7949
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18006",
+            "nome-municipio": "Porto Alegre do Tocantins",
+            "populacao-estimada": 3102
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18204",
+            "nome-municipio": "Porto Nacional",
+            "populacao-estimada": 52828
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18303",
+            "nome-municipio": "Praia Norte",
+            "populacao-estimada": 8365
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18402",
+            "nome-municipio": "Presidente Kennedy",
+            "populacao-estimada": 3733
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18451",
+            "nome-municipio": "Pugmil",
+            "populacao-estimada": 2650
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18501",
+            "nome-municipio": "Recursolândia",
+            "populacao-estimada": 4230
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18550",
+            "nome-municipio": "Riachinho",
+            "populacao-estimada": 4601
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18659",
+            "nome-municipio": "Rio da Conceição",
+            "populacao-estimada": 2061
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18709",
+            "nome-municipio": "Rio dos Bois",
+            "populacao-estimada": 2810
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18758",
+            "nome-municipio": "Rio Sono",
+            "populacao-estimada": 6512
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18808",
+            "nome-municipio": "Sampaio",
+            "populacao-estimada": 4579
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18840",
+            "nome-municipio": "Sandolândia",
+            "populacao-estimada": 3410
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18865",
+            "nome-municipio": "Santa Fé do Araguaia",
+            "populacao-estimada": 7402
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18881",
+            "nome-municipio": "Santa Maria do Tocantins",
+            "populacao-estimada": 3356
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18899",
+            "nome-municipio": "Santa Rita do Tocantins",
+            "populacao-estimada": 2343
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "18907",
+            "nome-municipio": "Santa Rosa do Tocantins",
+            "populacao-estimada": 4833
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "19004",
+            "nome-municipio": "Santa Tereza do Tocantins",
+            "populacao-estimada": 2825
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20002",
+            "nome-municipio": "Santa Terezinha do Tocantins",
+            "populacao-estimada": 2550
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20101",
+            "nome-municipio": "São Bento do Tocantins",
+            "populacao-estimada": 5231
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20150",
+            "nome-municipio": "São Félix do Tocantins",
+            "populacao-estimada": 1571
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20200",
+            "nome-municipio": "São Miguel do Tocantins",
+            "populacao-estimada": 11906
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20259",
+            "nome-municipio": "São Salvador do Tocantins",
+            "populacao-estimada": 3084
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20309",
+            "nome-municipio": "São Sebastião do Tocantins",
+            "populacao-estimada": 4749
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20499",
+            "nome-municipio": "São Valério",
+            "populacao-estimada": 4111
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20655",
+            "nome-municipio": "Silvanópolis",
+            "populacao-estimada": 5399
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20804",
+            "nome-municipio": "Sítio Novo do Tocantins",
+            "populacao-estimada": 9192
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20853",
+            "nome-municipio": "Sucupira",
+            "populacao-estimada": 1941
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20903",
+            "nome-municipio": "Taguatinga",
+            "populacao-estimada": 16530
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20937",
+            "nome-municipio": "Taipas do Tocantins",
+            "populacao-estimada": 2130
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "20978",
+            "nome-municipio": "Talismã",
+            "populacao-estimada": 2777
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "21109",
+            "nome-municipio": "Tocantínia",
+            "populacao-estimada": 7460
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "21208",
+            "nome-municipio": "Tocantinópolis",
+            "populacao-estimada": 23119
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "21257",
+            "nome-municipio": "Tupirama",
+            "populacao-estimada": 1843
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "21307",
+            "nome-municipio": "Tupiratins",
+            "populacao-estimada": 2574
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "22081",
+            "nome-municipio": "Wanderlândia",
+            "populacao-estimada": 11677
+        },
+        {
+            "uf": "Tocantins",
+            "cod-uf": 17,
+            "cod-municipio": "22107",
+            "nome-municipio": "Xambioá",
+            "populacao-estimada": 11683
+        }
+    ]
+}
